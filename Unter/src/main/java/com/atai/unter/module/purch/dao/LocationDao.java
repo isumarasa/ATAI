@@ -2,7 +2,7 @@ package com.atai.unter.module.purch.dao;
 
 import java.util.List;
 
-import com.atai.erp.module.purch.model.Location;
+import com.atai.unter.module.purch.model.Location;
 
 public interface LocationDao {
 

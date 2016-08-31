@@ -5,8 +5,8 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.atai.erp.module.purch.dao.LocationDao;
-import com.atai.erp.module.purch.model.Location;
+import com.atai.unter.module.purch.dao.LocationDao;
+import com.atai.unter.module.purch.model.Location;
 
 @Service
 public class LocationServiceImpl implements LocationService {

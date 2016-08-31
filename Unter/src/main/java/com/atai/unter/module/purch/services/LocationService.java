@@ -1,5 +1,7 @@
 package com.atai.unter.module.purch.services;
 
+import java.util.List;
+
 import com.atai.unter.module.purch.model.Location;
 
 public interface LocationService {
